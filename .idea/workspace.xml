@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc506373-5092-4be5-956f-5ba294cda392" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/LICENSE.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/.editorconfig" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/apple-touch-icon.png" afterPath="$PROJECT_DIR$/apple-touch-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/browserconfig.xml" afterPath="$PROJECT_DIR$/browserconfig.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/crossdomain.xml" afterPath="$PROJECT_DIR$/crossdomain.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/css/Style.css" afterPath="$PROJECT_DIR$/css/Style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/css/normalize.css" afterPath="$PROJECT_DIR$/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/doc/TOC.md" afterPath="$PROJECT_DIR$/doc/TOC.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/doc/css.md" afterPath="$PROJECT_DIR$/doc/css.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/doc/extend.md" afterPath="$PROJECT_DIR$/doc/extend.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/doc/faq.md" afterPath="$PROJECT_DIR$/doc/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/doc/html.md" afterPath="$PROJECT_DIR$/doc/html.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/doc/js.md" afterPath="$PROJECT_DIR$/doc/js.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/doc/misc.md" afterPath="$PROJECT_DIR$/doc/misc.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/doc/usage.md" afterPath="$PROJECT_DIR$/doc/usage.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/humans.txt" afterPath="$PROJECT_DIR$/humans.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/.gitignore" afterPath="$PROJECT_DIR$/img/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/Logo1.png" afterPath="$PROJECT_DIR$/img/Logo1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/MH.gif" afterPath="$PROJECT_DIR$/img/MH.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/bamboo.png" afterPath="$PROJECT_DIR$/img/bamboo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/bending.gif" afterPath="$PROJECT_DIR$/img/bending.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/doggie_be.png" afterPath="$PROJECT_DIR$/img/doggie_be.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/dxd.png" afterPath="$PROJECT_DIR$/img/dxd.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/fingermain.gif" afterPath="$PROJECT_DIR$/img/fingermain.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/happybean.gif" afterPath="$PROJECT_DIR$/img/happybean.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/hongik.jpg" afterPath="$PROJECT_DIR$/img/hongik.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/hongik.png" afterPath="$PROJECT_DIR$/img/hongik.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/mh.png" afterPath="$PROJECT_DIR$/img/mh.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/myself.jpg" afterPath="$PROJECT_DIR$/img/myself.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/proof.png" afterPath="$PROJECT_DIR$/img/proof.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/proofreaders.gif" afterPath="$PROJECT_DIR$/img/proofreaders.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/img/proofreadersh.gif" afterPath="$PROJECT_DIR$/img/proofreadersh.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/js/instafeed.min.js" afterPath="$PROJECT_DIR$/js/instafeed.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/js/plugins.js" afterPath="$PROJECT_DIR$/js/plugins.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/js/vendor/jquery-1.12.0.min.js" afterPath="$PROJECT_DIR$/js/vendor/jquery-1.12.0.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/js/vendor/modernizr-2.8.3.min.js" afterPath="$PROJECT_DIR$/js/vendor/modernizr-2.8.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/robots.txt" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/tile-wide.png" afterPath="$PROJECT_DIR$/tile-wide.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/tile.png" afterPath="$PROJECT_DIR$/tile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/350.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Portfix.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16728625">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.07434944">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -131,6 +84,7 @@
         <option value="$PROJECT_DIR$/dist/js/main.js" />
         <option value="$PROJECT_DIR$/dist/css/Style.css" />
         <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -147,8 +101,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="23" />
+    <option name="x" value="27" />
+    <option name="y" value="36" />
     <option name="width" value="1680" />
     <option name="height" value="978" />
   </component>
@@ -210,6 +164,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Portfix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Portfix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -226,6 +194,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/dist/img" />
       <recent name="$PROJECT_DIR$/dist/js" />
@@ -285,8 +254,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1680" height="978" extended-state="6" />
-    <editor active="true" />
+    <frame x="27" y="36" width="1680" height="978" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -294,7 +263,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -458,8 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16728625">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.07434944">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           <folding />
         </state>
       </provider>
