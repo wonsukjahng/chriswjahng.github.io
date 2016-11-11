@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:800,300italic,300,600);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7COswald:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CLato:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7COpen+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CAsap:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CLato:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7COswald:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%26subset%3Dlatin%2Clatin-ext);
 /*
 
 */
@@ -64,7 +65,7 @@ body { color: #131313; font-family: 'Open Sans', sans-serif; font-weight: 300; f
 
 /* !Inline */
 h1 { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:12px; letter-spacing:1px; }
-h2, h2 * { font-family:  'Open Sans', sans-serif; font-weight: 600; font-size:35px; transform: translate3d(0, 0, 0); -webkit-font-smoothing: antialiased; font-smoothing: antialiased;}
+h2, h2 * { font-family:  'Asap', sans-serif; font-weight: 300; font-size:35px; transform: translate3d(0, 0, 0); -webkit-font-smoothing: antialiased; font-smoothing: antialiased;}
 h3 { font-family: 'Open Sans', sans-serif; font-weight: 300; font-size:13px; font-style : italic;	 }
 h4, h4 * { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:12px; letter-spacing:1px; color:#131313 !important;}
 p {margin-bottom: 16px;}
